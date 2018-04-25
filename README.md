@@ -8,6 +8,7 @@ https://twitter.com/MissingPlaylist
 
 1. clone this repo
 1. `cd bsNPR`
+1. `python3 -m venv le-env`
 1. `source le-env/bin/activate`
 1. `pip install -r requirements.txt`
 1. `python 1.py > atc.sh # get rid of the stuff you don't want to hear`
