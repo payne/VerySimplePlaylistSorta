@@ -7,7 +7,7 @@ https://twitter.com/MissingPlaylist
 ### Setup
 
 1. clone this repo
-1. `cd bsNPR`
+1. `cd VerySimplePlaylistSorta`
 1. `python3 -m venv le-env`
 1. `source le-env/bin/activate`
 1. `pip install -r requirements.txt`
